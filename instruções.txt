@@ -1,0 +1,4 @@
+Utilizando uma estrutura do tipo vector ou lista (escolha do
+aluno) crie um programa capaz de simular o comportamento
+de uma pilha (stack) e outro programa capaz de simular uma
+fila (queue)
